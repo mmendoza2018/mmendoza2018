@@ -1,16 +1,14 @@
-### Hi there 👋
+mvieraamado/README.md
+Hi 👋 My name is Mariam
+Frontend developer
+I've been learning for 2 years now, I'm the happiest person every time I write a line of code. I'm currently a frontend developer, but lately I'm also learning Python and Django.
 
-<!--
-**mmendoza2018/mmendoza2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I'm based in Buenos Aires, Argentina
+✉️  You can contact me at mariamviera7@gmail.com
+🧠  I'm learning Python and Django
+🤝  I'm open to collaborating on interesting projects
+Skills
+Javascript Python HTML5 React JQuery CSS3 Sass Bootstrap Redux Firebase Heroku Django Figma
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Socials
+ 
