@@ -5,7 +5,7 @@ Hola  mi nombre es Miguel Mendoza 🤩
 Frontend developer
 ------------------
 
-Tengo mas de 1 año de experiencia, soy una persona responsable, autodidacta y apasionado por la tecnologia.
+Tengo mas de 2 años de experiencia, soy una persona responsable, autodidacta y apasionado por la tecnologia.
 
 * 🌍  Soy de Arequipa, Perú
 * ✉️  Puedes contactarme mediante este correo [mendoza.ing1826@gmail.com](mailto:mendoza.ing1826@gmail.com)
